@@ -1,0 +1,16 @@
+{
+  "name": "https-testing",
+  "version": "0.0.0",
+  "description": "ERROR: No README.md file found!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "author": "",
+  "license": "None",
+  "dependencies": {
+    "express": "~3.2.4",
+    "jade": "~0.30.0"
+  }
+}
